@@ -1,0 +1,26 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+label {
+  width: 80vw;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.navbar {
+  height: 8vh;
+}
+
+.th-option {
+  text-align: center;
+}
