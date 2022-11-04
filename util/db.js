@@ -17,4 +17,4 @@ db.connect((error) => {
 
 global.db = db;
 
-module.exports = db;
+module.exports = db:
