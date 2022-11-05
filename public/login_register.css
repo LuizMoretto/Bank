@@ -7,7 +7,7 @@
 body {
 	margin: 0;
 	font-family: Roboto, -apple-system, 'Helvetica Neue', 'Segoe UI', Arial, sans-serif;
-	background: #3b4465;
+	background: #25323c;
 }
 
 .forms-section {
@@ -236,7 +236,7 @@ body {
 
 .input-block label {
 	font-size: 14px;
-  color: #a1b4b4;
+  color: black;
 }
 
 .input-block input {
@@ -247,9 +247,9 @@ body {
 	padding-left: 15px;
 	font-size: 16px;
 	line-height: 40px;
-	color: #3b4465;
+	color: #25323c;
   background: #eef9fe;
-  border: 1px solid #cddbef;
+  border: 1px solid #35434e;
   border-radius: 2px;
 }
 
@@ -272,14 +272,14 @@ body {
 }
 
 .btn-login {
-	color: #fbfdff;
-	background: #a7e245;
+	color: #fff;
+	background: #6d2b37;
 	transform: translateX(-30%);
 }
 
 .btn-signup {
-	color: #a7e245;
-	background: #fbfdff;
-	box-shadow: inset 0 0 0 2px #a7e245;
+	color: #6d2b37;
+	background: #fff;
+	box-shadow: inset 0 0 0 2px #6d2b37;
 	transform: translateX(30%);
 }

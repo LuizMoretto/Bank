@@ -1,0 +1,38 @@
+body {
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+main {
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+label {
+    width: 80vw;
+}
+
+.mid {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 350px;
+    height: 400px;
+    padding: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    border-radius: 15px;
+}
+
+.form{
+    background-color: green;
+}
+
+.col-md-2{
+}
+
+.col-12{
+}

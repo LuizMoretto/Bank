@@ -3,7 +3,6 @@ body {
 }
 
 main {
-  display: flex;
   align-items: center;
   justify-content: center;
   height: 90vh;
@@ -15,6 +14,31 @@ label {
 
 a {
   color: #00B7FF;
+}
+
+.add{
+  text-align: center;
+  background: #25323c;
+}
+
+.add a{
+  background-color: #DC3545;
+  color: white;
+  border: none;
+  margin: 2vw;
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
+.add a:hover{
+  background-color: gray;
+}
+
+
+.saldo{
+  position: relative;
+  text-align: center;
+  margin: 1vw;
 }
 
 .navbar {
