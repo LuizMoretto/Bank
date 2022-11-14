@@ -27,12 +27,23 @@ label {
     border-radius: 15px;
 }
 
-.form{
-    background-color: green;
+.form-select{
+    border-radius: 10px;
+    border: solid 1px black;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
-.col-md-2{
+.form-control{
+    border-radius: 10px;
+    border: solid 1px black;
+    margin-bottom: 10px;
+}
+
+.col-md-12{
+    
 }
 
 .col-12{
+    
 }
